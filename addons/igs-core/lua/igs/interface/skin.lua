@@ -7,7 +7,7 @@
 IGS.S = IGS.S or {}
 
 IGS.S.COLORS = {
-	FRAME_HEADER        = Color(255,255,255), -- Фон верхушки фреймов в т.ч. пополнения счета и т.д. https://img.qweqwe.ovh/1491950958825.png
+	FRAME_HEADER        = Color(21,13,42*0.75), -- Фон верхушки фреймов в т.ч. пополнения счета и т.д. https://img.qweqwe.ovh/1491950958825.png
 	ACTIVITY_BG         = Color(255,255,255), -- Фон в каждой вкладке (основной) https://img.qweqwe.ovh/1509370647204.png
 	TAB_BAR             = Color(250,250,250), -- Фон таб бара https://img.qweqwe.ovh/1509370669492.png
 
